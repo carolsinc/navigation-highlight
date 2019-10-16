@@ -42,15 +42,26 @@ nav a:hover {
   background-color: #cc1465;
 }
 
+.current {
+  background-color: #b20953;
+}
+
 h2 {
   font-family: 'Sigmar One', sans-serif;
   font-size: 1.875rem;
   color: #b20953;
-  padding-left: .5em;
+  padding-left: .25em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  padding: 1em;
 }
 
 p {
    padding-left: .5em;
+   font-size: 1.125rem;
 }
 
 body {
